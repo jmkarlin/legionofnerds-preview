@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='-12 -8 704 198' width='100%'><style>
+text{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#0d1b2a}
+.t{font-size:14px}.ts{font-size:12px;fill:#3d4f63}.th{font-size:14px;font-weight:600}
+.c-gray rect{fill:#e3ebf3}.c-blue rect{fill:#174a87}.c-amber rect{fill:#174a87}.c-teal rect{fill:#c6dbef;stroke:#2171b5;stroke-width:1}
+.c-blue text{fill:#ffffff}.c-teal text,.c-gray text{fill:#08306b}
+.c-panel rect{fill:#f4f8fc;stroke:#c6dbef}
+.arr{stroke:#0d1b2a;stroke-width:1}.grid{stroke:#d0d7de;stroke-dasharray:3 3}
+</style><rect x='-12' y='-8' width='704' height='198' fill='#ffffff'/><text x='0' y='18' class='th'>Certified payroll: fewer people, higher cost</text><text x='0' y='38' class='ts'>PA 97-0256 reports: teachers, principals and other certified staff</text><text x='0' y='76' class='t'>People on the report</text><g class='c-blue'><rect x='226' y='58' width='104' height='26' rx='3'/></g><text x='220' y='76' text-anchor='end' class='th'>-2.6%</text><text x='680' y='76' text-anchor='end' class='ts'>821 → 800</text><text x='0' y='118' class='t'>Total compensation</text><g class='c-teal'><rect x='330' y='100' width='104' height='26' rx='3'/></g><text x='440' y='118' text-anchor='start' class='th'>+2.6%</text><text x='680' y='118' text-anchor='end' class='ts'>$94.53M → $96.96M</text><line x1='330' x2='330' y1='52' y2='146' class='arr'/><text x='0' y='170' class='ts'>The median raise for someone on both reports was 5.6%, which outweighs the drop in headcount.</text></svg>
